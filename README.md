@@ -86,12 +86,6 @@ This script allows you to quickly adjust volume gain, normalization, and fade-in
 
 ---
 
-## 📷 Screenshot
 
-> *(Optional: Include `Adjust Gain on Selected Area.png` image preview here)*
 
----
 
-## 📄 License
-
-*(Include license info here, e.g., MIT, GPL, etc.)*
