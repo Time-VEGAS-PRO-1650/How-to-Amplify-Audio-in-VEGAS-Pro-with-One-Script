@@ -49,7 +49,7 @@ Notes
 
 
 
-
+https://www.youtube.com/watch?v=63vRxymYl0M
 
 
 # How-to-Amplify-Audio-in-VEGAS-Pro-with-One-Script
