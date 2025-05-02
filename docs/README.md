@@ -16,6 +16,11 @@ This script allows you to quickly adjust volume gain, normalization, and fade-in
 
 [My Documents]\Vegas Script Menu
 
+
+![Script Window](https://github.com/Time-VEGAS-PRO-1650/How-to-Amplify-Audio-in-VEGAS-Pro-with-One-Script/blob/main/docs/info.png)
+
+
+
 2. If the `Vegas Script Menu` folder does not exist — create it manually.
 3. For quick script launching, assign the script to a hotkey (e.g. `8`).
 
