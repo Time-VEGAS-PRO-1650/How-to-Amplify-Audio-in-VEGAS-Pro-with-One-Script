@@ -1,4 +1,4 @@
-![Script Window](https://github.com/Time-VEGAS-PRO-1650/How-to-Amplify-Audio-in-VEGAS-Pro-with-One-Script/blob/main/Adjust%20Gain%20on%20Selected%20Area%20en.jpg?raw=true)
+![Script Window](https://github.com/Time-VEGAS-PRO-1650/How-to-Amplify-Audio-in-VEGAS-Pro-with-One-Script/blob/main/docs/Adjust-Gain-on%20Selected-Area-en.jpg)
 
 
 # 🎧 Adjust Gain on Selected Area — Sound Under Your Control
