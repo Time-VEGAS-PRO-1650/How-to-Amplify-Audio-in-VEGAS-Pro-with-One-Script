@@ -139,3 +139,7 @@ This script allows you to quickly adjust volume gain, normalization, and fade-in
 - Consider assigning the script to a shortcut key for faster use (e.g., key `8`).
 
 ---
+## 🎬 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/63vRxymYl0M/hqdefault.jpg)](https://www.youtube.com/watch?v=63vRxymYl0M)
+
